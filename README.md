@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="header image"/>
+  <img src="github banner.jpg" alt="header image"/>
 </p>
 
 # 🖐️ Hi, I'm Elad Mani
