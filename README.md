@@ -51,5 +51,5 @@ A data‑mining project for predicting stroke outcomes using the Kaggle stroke p
 
 ## 🌐 Find me around the web
 
-- [LinkedIn](https://www.linkedin.com)  
-- 📧 [Email](mailto:example@example.com)
+- [LinkedIn](https://www.linkedin.com/in/eladmani/)  
+- 📧 [Email](mailto:weladmani@gmail.com)
