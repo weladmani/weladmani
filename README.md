@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I’m Elad Mani
 
-<!--
-**weladmani/weladmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software engineer from Tel Aviv who loves solving problems in **C** and **Python**. I’m particularly interested in **data mining**, **software development in JavaScript and Python**, and exploring **large‑language models (LLMs)** and **retrieval‑augmented generation (RAG)**.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Technologies |
+|--------|-------------|-------------|
+| **C‑Lab‑Project** | A C project demonstrating … (replace with a short summary of your C project). | C |
+| **Data‑Mining‑Project** | Python project for extracting insights from datasets using … | Python, Pandas, Scikit‑learn |
+
+## 🔧 Skills
+
+- **Languages:** C, Python, JavaScript
+- **Tools:** Git, Linux, VS Code
+- **Interests:** Data mining, software development in JS & Python, large‑language models (LLMs), retrieval‑augmented generation (RAG), algorithms, web development
+
+## 📫 Contact me
+
+- [LinkedIn](https://www.linkedin.com/in/eladmani/)
+- Email: your.email@example.com
