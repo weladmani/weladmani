@@ -18,7 +18,7 @@ An assembler built in C that converts human‑readable assembly code into machin
 
 - Implemented parsing, instruction translation and binary code generation from source files to simulate low‑level code execution.
 - Dmonstrated understanding of low-level architectures and system programming.
-- - 🔗 [Repository](https://github.com/weladmani/assembly-compiler) – coming soon
+- - 🔗 [Code](https://github.com/weladmani/C---Assembler-/tree/main/C-Lab-Project)
 ### 🧠 Data‑Mining on Stroke Prediction
 
 A data‑mining project for predicting stroke outcomes using the Kaggle stroke prediction dataset.
