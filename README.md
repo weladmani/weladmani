@@ -31,12 +31,6 @@ A data‑mining project for predicting stroke outcomes using the Kaggle stroke p
 
 ---
 
-## 🎓 Education
-
-**Present:** Bachelor’s degree student in Computer Science – The Open University of Israel
-
----
-
 ## 🌐 Find me around the web
 
 - [LinkedIn](https://www.linkedin.com/in/eladmani/)  
