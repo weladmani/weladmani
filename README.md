@@ -17,13 +17,11 @@ I enjoy building efficient applications and uncovering insights from data. This 
 An assembler built in C that converts human‑readable assembly code into machine‑readable binary instructions.
 
 - Implemented parsing, instruction translation and binary code generation from source files to simulate low‑level code execution.
-- Demonstrated understanding of low‑level architectures and system programming.
-- 🔗 [Repository](https://github.com/weladmani/assembly-compiler) – coming soonn
-
+- Dmonstrated understanding of low-level architectures and system programming.
+- - 🔗 [Repository](https://github.com/weladmani/assembly-compiler) – coming soon
 ### 🧠 Data‑Mining on Stroke Prediction
 
 A data‑mining project for predicting stroke outcomes using the Kaggle stroke prediction dataset.
-
 - Built supervised learning models using Linear Regression, Support Vector Machines and Random Forest.
 - Applied unsupervised techniques like K‑Means clustering and association rule mining for exploratory analysis.
 - Designed a multi‑layer artificial neural network (ANN) with ReLU activations and a sigmoid output for binary classification.
