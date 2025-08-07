@@ -4,7 +4,7 @@
 
 # 🖐️ Hi, I'm Elad Mani
 
-I'm a software engineer from Ramat Gan who loves solving problems in **Python**, **Java**, **C**, **C#** and **JavaScript**. I'm particularly interested in **data mining**, **software development**, and exploring **Machine Learning (ML)**, **large language models (LLMs)** and **retrieval‑augmented generation (RAG)**.
+I'm a software engineer who loves solving problems in **Python**, **Java**, **C**, **C#** and **JavaScript**. I'm particularly interested in **data mining**, **software development**, and exploring **Machine Learning (ML)**, **large language models (LLMs)** and **retrieval‑augmented generation (RAG)**.
 
 I enjoy building efficient applications and uncovering insights from data. This page showcases some of my projects, skills and education, and where you can find me around the web.
 
@@ -31,21 +31,9 @@ A data‑mining project for predicting stroke outcomes using the Kaggle stroke p
 
 ---
 
-## 🛠️ Skills
-
-**Programming Languages:** Python, Java, SQL, C, C#, JavaScript  
-**Libraries & Frameworks:** Scikit‑learn, TensorFlow, Keras, NumPy, pandas, plotly  
-**Tools:** GitHub, Git, Firebase, Office 365, PostgreSQL  
-**Platforms & IDEs:** PyCharm, Colab, Jupyter Notebook, Visual Studio Code, IntelliJ IDEA, CLion  
-**Soft Skills:** Rapport building, excellent communication, creativity, self‑learner
-
----
-
 ## 🎓 Education
 
 **Present:** Bachelor’s degree student in Computer Science – The Open University of Israel
-
-**Key Courses:** Data Mining (Grade 95) • Probability and Statistics (Grade 87) • C Programming Lab (Grade 86)
 
 ---
 
