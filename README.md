@@ -26,7 +26,7 @@ A data‑mining project for predicting stroke outcomes using the Kaggle stroke p
 - Applied unsupervised techniques like K‑Means clustering and association rule mining for exploratory analysis.
 - Designed a multi‑layer artificial neural network (ANN) with ReLU activations and a sigmoid output for binary classification.
 - Evaluated models using accuracy, precision, recall and F1‑score.
-- 🔗 [Repository](https://github.com/weladmani/stroke-prediction) – coming soonsoon
+- 🔗 [Repository](https://github.com/weladmani/stroke-prediction) – coming– coming soon
 
 ---
 
