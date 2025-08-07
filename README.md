@@ -4,15 +4,15 @@
 
 # 👋 Hi, I’m Elad Mani
 
-I’m a software engineer from Tel Aviv who loves solving problems in **C**, **JavaScript**, and **Python**. I’m particularly interested in **data mining**, **software development in JavaScript and Python**, and exploring **large language models (LLMs)** and **retrieval‑augmented generation (RAG)**.
+I’m a software engineer from Ramat Gan who loves solving problems in **Python**, **Java**, **C** and **JavaScript**. I’m particularly interested in **data mining**, **software development**, and exploring **Machine Learning (ML)**, **large language models (LLMs)** and **retrieval‑augmented generation (RAG)**.
 
-I enjoy building efficient C applications and uncovering insights from data. This page showcases some of my projects and where you can find me around the web.
+I enjoy building efficient applications and uncovering insights from data. This page showcases some of my projects and where you can find me around the web.
 
 ---
 
 ## ✨ Featured Projects
 
-### C Project: _C‑Lab‑Project_
+### C Project: Assembler
 A C project demonstrating … (replace with a short summary of your C project). This project covers fundamental C concepts and system‑level programming.
 
 - ⭐ **[Repository](https://github.com/weladmani/c-project)** – browse the code and documentation.
