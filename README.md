@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Elad Mani
 
-I’m a software engineer from Tel Aviv who loves solving problems in **C** and **Python**. I’m particularly interested in **data mining**, **software development in JavaScript and Python**, and exploring **large‑language models (LLMs)** and **retrieval‑augmented generation (RAG)**.
+I’m a software engineer from Tel Aviv who loves solving problems in **Python**, **Java** and **C**. I’m particularly interested in **data mining**, **software development in JavaScript and Python**, and exploring **large‑language models (LLMs)** and **retrieval‑augmented generation (RAG)**.
 
 ## 🚀 Projects
 
