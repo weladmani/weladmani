@@ -18,7 +18,7 @@ An assembler built in C that converts human‑readable assembly code into machin
 
 - Implemented parsing, instruction translation and binary code generation from source files to simulate low‑level code execution.
 - Demonstrated understanding of low‑level architectures and system programming.
-- *Repository coming soon*
+- 🔗 [Repository](https://github.com/weladmani/assembly-compiler) – coming soonn
 
 ### 🧠 Data‑Mining on Stroke Prediction
 
@@ -28,7 +28,7 @@ A data‑mining project for predicting stroke outcomes using the Kaggle stroke p
 - Applied unsupervised techniques like K‑Means clustering and association rule mining for exploratory analysis.
 - Designed a multi‑layer artificial neural network (ANN) with ReLU activations and a sigmoid output for binary classification.
 - Evaluated models using accuracy, precision, recall and F1‑score.
-- *Repository coming soon*
+- 🔗 [Repository](https://github.com/weladmani/stroke-prediction) – coming soonsoon
 
 ---
 
