@@ -2,35 +2,55 @@
   <img src="header_small.jpg" alt="header image"/>
 </p>
 
-# 👋 Hi, I’m Elad Mani
+# 🖐️ Hi, I'm Elad Mani
 
-I’m a software engineer from Ramat Gan who loves solving problems in **Python**, **Java**, **C** and **JavaScript**. I’m particularly interested in **data mining**, **software development**, and exploring **Machine Learning (ML)**, **large language models (LLMs)** and **retrieval‑augmented generation (RAG)**.
+I'm a software engineer from Ramat Gan who loves solving problems in **Python**, **Java**, **C**, **C#** and **JavaScript**. I'm particularly interested in **data mining**, **software development**, and exploring **Machine Learning (ML)**, **large language models (LLMs)** and **retrieval‑augmented generation (RAG)**.
 
-I enjoy building efficient applications and uncovering insights from data. This page showcases some of my projects and where you can find me around the web.
-
----
-
-## ✨ Featured Projects
-
-### C Project: Assembler
-A C project demonstrating … (replace with a short summary of your C project). This project covers fundamental C concepts and system‑level programming.
-
-- ⭐ **[Repository](https://github.com/weladmani/c-project)** – browse the code and documentation.
+I enjoy building efficient applications and uncovering insights from data. This page showcases some of my projects, skills and education, and where you can find me around the web.
 
 ---
 
-### Data‑Mining Project in Python
-A data‑mining project for extracting insights from datasets using Python. Includes data cleaning, feature engineering, modeling, and visualization.
+## 🌟 Featured Projects
 
-- ⭐ **[Repository](https://github.com/weladmani/data-mining-project)** – explore the notebooks and results.
+### 🔧 Assembly Compiler in C
+
+An assembler built in C that converts human‑readable assembly code into machine‑readable binary instructions.
+
+- Implemented parsing, instruction translation and binary code generation from source files to simulate low‑level code execution.
+- Demonstrated understanding of low‑level architectures and system programming.
+- *Repository coming soon*
+
+### 🧠 Data‑Mining on Stroke Prediction
+
+A data‑mining project for predicting stroke outcomes using the Kaggle stroke prediction dataset.
+
+- Built supervised learning models using Linear Regression, Support Vector Machines and Random Forest.
+- Applied unsupervised techniques like K‑Means clustering and association rule mining for exploratory analysis.
+- Designed a multi‑layer artificial neural network (ANN) with ReLU activations and a sigmoid output for binary classification.
+- Evaluated models using accuracy, precision, recall and F1‑score.
+- *Repository coming soon*
 
 ---
 
-## 🌍 Find me around the web
+## 🛠️ Skills
 
-- **LinkedIn:** [linkedin.com/in/eladmani](https://www.linkedin.com/in/eladmani/) 
-- **Email:** elad@example.com
+**Programming Languages:** Python, Java, SQL, C, C#, JavaScript  
+**Libraries & Frameworks:** Scikit‑learn, TensorFlow, Keras, NumPy, pandas, plotly  
+**Tools:** GitHub, Git, Firebase, Office 365, PostgreSQL  
+**Platforms & IDEs:** PyCharm, Colab, Jupyter Notebook, Visual Studio Code, IntelliJ IDEA, CLion  
+**Soft Skills:** Rapport building, excellent communication, creativity, self‑learner
 
 ---
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+## 🎓 Education
+
+**Present:** Bachelor’s degree student in Computer Science – The Open University of Israel
+
+**Key Courses:** Data Mining (Grade 95) • Probability and Statistics (Grade 87) • C Programming Lab (Grade 86)
+
+---
+
+## 🌐 Find me around the web
+
+- [LinkedIn](https://www.linkedin.com)  
+- 📧 [Email](mailto:example@example.com)
