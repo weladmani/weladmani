@@ -1,21 +1,36 @@
+<p align="center">
+  <img src="header_small.jpg" alt="header image"/>
+</p>
+
 # 👋 Hi, I’m Elad Mani
 
-I’m a software engineer from Tel Aviv who loves solving problems in **Python**, **Java** and **C**. I’m particularly interested in **data mining**, **software development in JavaScript and Python**, and exploring **large‑language models (LLMs)** and **retrieval‑augmented generation (RAG)**.
+I’m a software engineer from Tel Aviv who loves solving problems in **C**, **JavaScript**, and **Python**. I’m particularly interested in **data mining**, **software development in JavaScript and Python**, and exploring **large language models (LLMs)** and **retrieval‑augmented generation (RAG)**.
 
-## 🚀 Projects
+I enjoy building efficient C applications and uncovering insights from data. This page showcases some of my projects and where you can find me around the web.
 
-| Project | Description | Technologies |
-|--------|-------------|-------------|
-| **C‑Lab‑Project** | A C project demonstrating … (replace with a short summary of your C project). | C |
-| **Data‑Mining‑Project** | Python project for extracting insights from datasets using … | Python, Pandas, Scikit‑learn |
+---
 
-## 🔧 Skills
+## ✨ Featured Projects
 
-- **Languages:** C, Python, JavaScript
-- **Tools:** Git, Linux, VS Code
-- **Interests:** Data mining, software development in JS & Python, large‑language models (LLMs), retrieval‑augmented generation (RAG), algorithms, web development
+### C Project: _C‑Lab‑Project_
+A C project demonstrating … (replace with a short summary of your C project). This project covers fundamental C concepts and system‑level programming.
 
-## 📫 Contact me
+- ⭐ **[Repository](https://github.com/weladmani/c-project)** – browse the code and documentation.
 
-- [LinkedIn](https://www.linkedin.com/in/eladmani/)
-- Email: your.email@example.com
+---
+
+### Data‑Mining Project in Python
+A data‑mining project for extracting insights from datasets using Python. Includes data cleaning, feature engineering, modeling, and visualization.
+
+- ⭐ **[Repository](https://github.com/weladmani/data-mining-project)** – explore the notebooks and results.
+
+---
+
+## 🌍 Find me around the web
+
+- **LinkedIn:** [linkedin.com/in/eladmani](https://www.linkedin.com/in/eladmani/) 
+- **Email:** elad@example.com
+
+---
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
